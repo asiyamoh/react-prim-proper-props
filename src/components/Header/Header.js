@@ -1,7 +1,7 @@
 function Header() {
-    return <header>
-      <h1>Prim Proper Props</h1>
-    </header>;
-  }
+  return (
+    <h1>Prim Proper Props</h1>
+  );
+}
 
-  export default Header;
+export default Header;
